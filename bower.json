@@ -1,0 +1,16 @@
+{
+  "name": "lazyLoadImages",
+  "version": "1.0.0",
+  "main": "lazyLoadImages.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.2.6",
+    "scrollMonitor": "git://github.com/MajorLeagueBaseball/scrollMonitor#allow-multiple-containers"
+  }
+}
